@@ -1,0 +1,5 @@
+name: BGMParty
+version: ${project.version}
+main: org.bgmsound.bgmparty.BGMParty
+commands:
+  파티:
